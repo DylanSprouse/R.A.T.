@@ -8,12 +8,22 @@
   <sprites name="sprites">
     <sprites name="Rat">
       <sprite>sprites\Rat_whole_test</sprite>
-      <sprite>sprites\Back_arm_standard</sprite>
-      <sprite>sprites\Body_standard</sprite>
-      <sprite>sprites\Front_arm_standard</sprite>
-      <sprite>sprites\Head_standard</sprite>
-      <sprite>sprites\Legs_standard</sprite>
-      <sprite>sprites\Tail_standard</sprite>
+      <sprites name="Left">
+        <sprite>sprites\spr_Back_Arm_Standard_Left</sprite>
+        <sprite>sprites\spr_Body_Standard_Left</sprite>
+        <sprite>sprites\spr_Front_Arm_Standard_Left</sprite>
+        <sprite>sprites\spr_Head_Standard_Left</sprite>
+        <sprite>sprites\spr_Legs_Standard_Left</sprite>
+        <sprite>sprites\spr_Tail_Standard_Left</sprite>
+      </sprites>
+      <sprites name="Right">
+        <sprite>sprites\spr_Tail_Standard_Right</sprite>
+        <sprite>sprites\spr_Legs_Standard_Right</sprite>
+        <sprite>sprites\spr_Head_Standard_Right</sprite>
+        <sprite>sprites\spr_Front_Arm_Standard_Right</sprite>
+        <sprite>sprites\spr_Body_Standard_Right</sprite>
+        <sprite>sprites\spr_Back_Arm_Standard_Right</sprite>
+      </sprites>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
