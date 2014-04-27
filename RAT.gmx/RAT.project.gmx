@@ -7,24 +7,45 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprites name="Rat">
-      <sprite>sprites\Rat_whole_test</sprite>
-      <sprites name="Left">
-        <sprite>sprites\spr_Back_Arm_Standard_Left</sprite>
-        <sprite>sprites\spr_Body_Standard_Left</sprite>
-        <sprite>sprites\spr_Front_Arm_Standard_Left</sprite>
-        <sprite>sprites\spr_Head_Standard_Left</sprite>
-        <sprite>sprites\spr_Legs_Standard_Left</sprite>
-        <sprite>sprites\spr_Tail_Standard_Left</sprite>
+      <sprites name="Down">
+        <sprites name="Left">
+          <sprite>sprites\spr_Back_Arm_Standard_Left</sprite>
+          <sprite>sprites\spr_Body_Standard_Left</sprite>
+          <sprite>sprites\spr_Front_Arm_Standard_Left</sprite>
+          <sprite>sprites\spr_Head_Standard_Left</sprite>
+          <sprite>sprites\spr_Legs_Standard_Left</sprite>
+          <sprite>sprites\spr_Tail_Standard_Left</sprite>
+        </sprites>
+        <sprites name="Right">
+          <sprite>sprites\spr_Tail_Standard_Right</sprite>
+          <sprite>sprites\spr_Legs_Standard_Right</sprite>
+          <sprite>sprites\spr_Head_Standard_Right</sprite>
+          <sprite>sprites\spr_Front_Arm_Standard_Right</sprite>
+          <sprite>sprites\spr_Body_Standard_Right</sprite>
+          <sprite>sprites\spr_Back_Arm_Standard_Right</sprite>
+        </sprites>
       </sprites>
-      <sprites name="Right">
-        <sprite>sprites\spr_Tail_Standard_Right</sprite>
-        <sprite>sprites\spr_Legs_Standard_Right</sprite>
-        <sprite>sprites\spr_Head_Standard_Right</sprite>
-        <sprite>sprites\spr_Front_Arm_Standard_Right</sprite>
-        <sprite>sprites\spr_Body_Standard_Right</sprite>
-        <sprite>sprites\spr_Back_Arm_Standard_Right</sprite>
+      <sprites name="Up">
+        <sprites name="Left">
+          <sprite>sprites\spr_Back_Arm_Standard_Up_Left</sprite>
+          <sprite>sprites\spr_Front_Arm_Standard_Up_Left</sprite>
+          <sprite>sprites\spr_Body_Standard_Up_Left</sprite>
+          <sprite>sprites\spr_Head_Standard_Up_Left</sprite>
+          <sprite>sprites\spr_Tail_Standard_Up_Left</sprite>
+          <sprite>sprites\spr_Legs_Standard_Up_Left</sprite>
+        </sprites>
+        <sprites name="Right">
+          <sprite>sprites\spr_Back_Arm_Standard_Up_Right</sprite>
+          <sprite>sprites\spr_Front_Arm_Standard_Up_Right</sprite>
+          <sprite>sprites\spr_Body_Standard_Up_Right</sprite>
+          <sprite>sprites\spr_Head_Standard_Up_Right</sprite>
+          <sprite>sprites\spr_Tail_Standard_Up_Right</sprite>
+          <sprite>sprites\spr_Legs_Standard_Up_Right</sprite>
+        </sprites>
       </sprites>
     </sprites>
+    <sprite>sprites\Example_Front</sprite>
+    <sprite>sprites\Example_Up</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
