@@ -17,12 +17,12 @@
           <sprite>sprites\spr_Tail_Standard_Left</sprite>
         </sprites>
         <sprites name="Right">
-          <sprite>sprites\spr_Tail_Standard_Right</sprite>
-          <sprite>sprites\spr_Legs_Standard_Right</sprite>
-          <sprite>sprites\spr_Head_Standard_Right</sprite>
-          <sprite>sprites\spr_Front_Arm_Standard_Right</sprite>
-          <sprite>sprites\spr_Body_Standard_Right</sprite>
           <sprite>sprites\spr_Back_Arm_Standard_Right</sprite>
+          <sprite>sprites\spr_Body_Standard_Right</sprite>
+          <sprite>sprites\spr_Front_Arm_Standard_Right</sprite>
+          <sprite>sprites\spr_Head_Standard_Right</sprite>
+          <sprite>sprites\spr_Legs_Standard_Right</sprite>
+          <sprite>sprites\spr_Tail_Standard_Right</sprite>
         </sprites>
       </sprites>
       <sprites name="Up">
@@ -43,9 +43,31 @@
           <sprite>sprites\spr_Legs_Standard_Up_Right</sprite>
         </sprites>
       </sprites>
+      <sprites name="Animations">
+        <sprites name="Idle">
+          <sprites name="Down">
+            <sprites name="Left">
+              <sprite>sprites\spr_Back_Arm_Standard_Idle_Left</sprite>
+              <sprite>sprites\spr_Body_Standard_Idle_Left</sprite>
+              <sprite>sprites\spr_Front_Arm_Standard_Idle_Left</sprite>
+              <sprite>sprites\spr_Head_Standard_Idle_Left</sprite>
+              <sprite>sprites\spr_Legs_Standard_Idle_Left</sprite>
+              <sprite>sprites\spr_Tail_Standard_Idle_Left</sprite>
+            </sprites>
+            <sprites name="Right">
+              <sprite>sprites\spr_Back_Arm_Standard_Idle_Right</sprite>
+              <sprite>sprites\spr_Body_Standard_Idle_Right</sprite>
+              <sprite>sprites\spr_Front_Arm_Standard_Idle_Right</sprite>
+              <sprite>sprites\spr_Head_Standard_Idle_Right</sprite>
+              <sprite>sprites\spr_Legs_Standard_Idle_Right</sprite>
+              <sprite>sprites\spr_Tail_Standard_Idle_Right</sprite>
+            </sprites>
+          </sprites>
+        </sprites>
+      </sprites>
+      <sprite>sprites\Example_Front</sprite>
+      <sprite>sprites\Example_Up</sprite>
     </sprites>
-    <sprite>sprites\Example_Front</sprite>
-    <sprite>sprites\Example_Up</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
