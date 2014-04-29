@@ -47,20 +47,20 @@
         <sprites name="Idle">
           <sprites name="Down">
             <sprites name="Left">
-              <sprite>sprites\spr_Back_Arm_Standard_Idle_Left</sprite>
-              <sprite>sprites\spr_Body_Standard_Idle_Left</sprite>
-              <sprite>sprites\spr_Front_Arm_Standard_Idle_Left</sprite>
-              <sprite>sprites\spr_Head_Standard_Idle_Left</sprite>
-              <sprite>sprites\spr_Legs_Standard_Idle_Left</sprite>
-              <sprite>sprites\spr_Tail_Standard_Idle_Left</sprite>
+              <sprite>sprites\spr_Back_Arm_Standard_Idle_Down_Left</sprite>
+              <sprite>sprites\spr_Body_Standard_Idle_Down_Left</sprite>
+              <sprite>sprites\spr_Front_Arm_Standard_Idle_Down_Left</sprite>
+              <sprite>sprites\spr_Head_Standard_Idle_Down_Left</sprite>
+              <sprite>sprites\spr_Legs_Standard_Idle_Down_Left</sprite>
+              <sprite>sprites\spr_Tail_Standard_Idle_Down_Left</sprite>
             </sprites>
             <sprites name="Right">
-              <sprite>sprites\spr_Back_Arm_Standard_Idle_Right</sprite>
-              <sprite>sprites\spr_Body_Standard_Idle_Right</sprite>
-              <sprite>sprites\spr_Front_Arm_Standard_Idle_Right</sprite>
-              <sprite>sprites\spr_Head_Standard_Idle_Right</sprite>
-              <sprite>sprites\spr_Legs_Standard_Idle_Right</sprite>
-              <sprite>sprites\spr_Tail_Standard_Idle_Right</sprite>
+              <sprite>sprites\spr_Back_Arm_Standard_Idle_Down_Right</sprite>
+              <sprite>sprites\spr_Body_Standard_Idle_Down_Right</sprite>
+              <sprite>sprites\spr_Front_Arm_Standard_Idle_Down_Right</sprite>
+              <sprite>sprites\spr_Head_Standard_Idle_Down_Right</sprite>
+              <sprite>sprites\spr_Legs_Standard_Idle_Down_Right</sprite>
+              <sprite>sprites\spr_Tail_Standard_Idle_Down_Right</sprite>
             </sprites>
           </sprites>
         </sprites>
