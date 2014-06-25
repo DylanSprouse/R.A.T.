@@ -70,16 +70,12 @@
               <sprite>sprites\spr_Head_Standard_Walking_Up_Left</sprite>
               <sprite>sprites\spr_Body_Standard_Walking_Up_Left</sprite>
               <sprite>sprites\spr_Tail_Standard_Walking_Up_Left</sprite>
-              <sprite>sprites\spr_Back_Arm_Standard_Walking_Up_Left</sprite>
-              <sprite>sprites\spr_Front_Arm_Standard_Walking_Up_Left</sprite>
               <sprite>sprites\spr_Legs_Standard_Walking_Up_Left</sprite>
             </sprites>
             <sprites name="Right">
               <sprite>sprites\spr_Head_Standard_Walking_Up_Right</sprite>
               <sprite>sprites\spr_Body_Standard_Walking_Up_Right</sprite>
               <sprite>sprites\spr_Tail_Standard_Walking_Up_Right</sprite>
-              <sprite>sprites\spr_Back_Arm_Standard_Walking_Up_Right</sprite>
-              <sprite>sprites\spr_Front_Arm_Standard_Walking_Up_Right</sprite>
               <sprite>sprites\spr_Legs_Standard_Walking_Up_Right</sprite>
             </sprites>
           </sprites>
