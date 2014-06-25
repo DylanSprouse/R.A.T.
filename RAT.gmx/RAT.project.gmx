@@ -138,6 +138,7 @@
     </sprites>
     <sprites name="GUI">
       <sprite>sprites\spr_Cursor</sprite>
+      <sprite>sprites\spr_Screen_Overlay</sprite>
     </sprites>
     <sprites name="Stages">
       <sprites name="Tile">
@@ -157,6 +158,7 @@
       </sprites>
       <sprite>sprites\Stage_Test_Tile</sprite>
     </sprites>
+    <sprite>sprites\spr_Background</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
