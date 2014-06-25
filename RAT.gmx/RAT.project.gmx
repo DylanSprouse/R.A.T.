@@ -143,6 +143,24 @@
     <sprites name="GUI">
       <sprite>sprites\spr_Cursor</sprite>
     </sprites>
+    <sprites name="Stages">
+      <sprites name="Tile">
+        <sprite>sprites\spr_Tile</sprite>
+        <sprite>sprites\spr_Tile_Upper_Right</sprite>
+        <sprite>sprites\spr_Tile_Upper_Left</sprite>
+        <sprite>sprites\spr_Tile_Bottom_Left</sprite>
+        <sprite>sprites\spr_Tile_Bottom_Right</sprite>
+        <sprite>sprites\spr_Tile_Bottom</sprite>
+        <sprite>sprites\spr_Tile_Right</sprite>
+        <sprite>sprites\spr_Tile_Left</sprite>
+        <sprite>sprites\spr_Tile_Top</sprite>
+        <sprite>sprites\spr_Tile_Corner_Upper_Right</sprite>
+        <sprite>sprites\spr_Tile_Corner_Upper_Left</sprite>
+        <sprite>sprites\spr_Tile_Corner_Bottom_Right</sprite>
+        <sprite>sprites\spr_Tile_Corner_Bottom_Left</sprite>
+      </sprites>
+      <sprite>sprites\Stage_Test_Tile</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
