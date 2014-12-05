@@ -138,6 +138,12 @@
             </sprites>
           </sprites>
         </sprites>
+        <sprites name="Animations">
+          <sprites name="Walking">
+            <sprite>sprites\spr_Bullbug_Walking_Right</sprite>
+            <sprite>sprites\spr_Bullbug_Walking_Left</sprite>
+          </sprites>
+        </sprites>
       </sprites>
     </sprites>
     <sprites name="GUI">
@@ -162,10 +168,39 @@
       </sprites>
       <sprite>sprites\Stage_Test_Tile</sprite>
     </sprites>
-    <sprite>sprites\spr_Background</sprite>
     <sprites name="Particles">
-      <sprite>sprites\spr_Particle_Turn_Left2</sprite>
-      <sprite>sprites\spr_Particle_Turn_Right2</sprite>
+      <sprite>sprites\spr_Particle_Turn_Leftnew</sprite>
+      <sprite>sprites\spr_Particle_Turn_Rightnew</sprite>
+      <sprite>sprites\spr_Particle_Walkdust</sprite>
+      <sprites name="Bullets">
+        <sprite>sprites\spr_Bullet_Potato</sprite>
+      </sprites>
+      <sprites name="Melee">
+        <sprites name="Slash">
+          <sprite>sprites\spr_Particle_Slash1</sprite>
+        </sprites>
+      </sprites>
+    </sprites>
+    <sprites name="Weapons">
+      <sprites name="Melee">
+        <sprites name="Left">
+          <sprite>sprites\spr_Sword_Basic_Left</sprite>
+        </sprites>
+        <sprites name="Right">
+          <sprite>sprites\spr_Sword_Basic_Right</sprite>
+        </sprites>
+      </sprites>
+      <sprites name="Ranged">
+        <sprites name="Left">
+          <sprite>sprites\spr_Handgun_Potato_Left</sprite>
+        </sprites>
+        <sprites name="Right">
+          <sprite>sprites\spr_Handgun_Potato_Right</sprite>
+        </sprites>
+      </sprites>
+    </sprites>
+    <sprites name="Interactables">
+      <sprite>sprites\spr_Intr_Treasure_Normal</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
