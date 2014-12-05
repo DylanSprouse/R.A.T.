@@ -149,6 +149,11 @@
     <sprites name="GUI">
       <sprite>sprites\spr_Cursor</sprite>
       <sprite>sprites\spr_Screen_Overlay</sprite>
+      <sprites name="Health">
+        <sprite>sprites\spr_Health_Full</sprite>
+        <sprite>sprites\spr_Health_Low</sprite>
+        <sprite>sprites\spr_Health_Half</sprite>
+      </sprites>
     </sprites>
     <sprites name="Stages">
       <sprites name="Tile">
