@@ -175,6 +175,11 @@
       <sprites name="Bullets">
         <sprite>sprites\spr_Bullet_Potato</sprite>
       </sprites>
+      <sprites name="Melee">
+        <sprites name="Slash">
+          <sprite>sprites\spr_Particle_Slash1</sprite>
+        </sprites>
+      </sprites>
     </sprites>
     <sprites name="Weapons">
       <sprites name="Melee">
