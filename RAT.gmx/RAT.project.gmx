@@ -138,6 +138,12 @@
             </sprites>
           </sprites>
         </sprites>
+        <sprites name="Animations">
+          <sprites name="Walking">
+            <sprite>sprites\spr_Bullbug_Walking_Right</sprite>
+            <sprite>sprites\spr_Bullbug_Walking_Left</sprite>
+          </sprites>
+        </sprites>
       </sprites>
     </sprites>
     <sprites name="GUI">
